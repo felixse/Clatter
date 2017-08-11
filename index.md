@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Clatter
 
-You can use the [editor on GitHub](https://github.com/felixse/Clatter/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Clatter unifies all your precious social messengers into one environment that knows how to keep you focused!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tired of managing all these blinking chat windows? Your WhatsApp and Telegram contacts are sending out one note after another? Using Facebook Messenger is not safe for work? You want to combine all your messengers for business into one comfortable service?  
 
-### Markdown
+Clatter offers the option to include all common messenger networks (Facebook Messenger, WhatsApp, Skype, ...) as well as business-oriented secure chats (Mattermost, Slack, Rocket.Chat, ...). This all-in-one messenger enables you to easily change between services, while having immediate focus on your selected chat. Desktop Notifications for all services can be individualized to your own needs. Needless to say Clatter features audio/video chat support and secure connections via HTTPS.   
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Your Benefits with the Pro Version:
+- No more Ads
+- Quick Reply Feature for WhatsApp and Telegram
+- More to come...
 
-```markdown
-Syntax highlighted code block
+## Features
 
-# Header 1
-## Header 2
-### Header 3
+- Desktop Notifications 
+- Option to hide message details from Desktop Notifications
+- Quick Reply for WhatsApp and Telegram (more to come)
+- Auto focus on input box
+- Taskbar Badge Notifications
+- Supports Audio and Video Chats
+- Secure Connection via HTTPS 
+- Adaptive Design
+- Borderless Window Design
+- Add Custom Services
 
-- Bulleted
-- List
+## Supported Services
 
-1. Numbered
-2. List
+- WhatsApp
+- Facebook Messenger
+- WeChat
+- Skype
+- Telegram
+- Google Hangouts
+- Discord
+- Slack
+- Mattermost
+- Rocket.Chat
 
-**Bold** and _Italic_ and `Code` text
+## Privacy Policy 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/felixse/Clatter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+All personal information are transferred to the configured chat services‘ web version directly - this application does not use, store or disclose any personal data in any other way. 
