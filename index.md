@@ -1,21 +1,21 @@
 # Clatter
 
-Clatter unifies all your precious social messengers into one environment that knows how to keep you focused!
+Clatter unifies all Your precious social messengers into one environment that knows how to keep you focused.
 
-Tired of managing all these blinking chat windows? Your WhatsApp and Telegram contacts are sending out one note after another? Using Facebook Messenger is not safe for work? You want to combine all your messengers for business into one comfortable service?  
+Your Facebook  and Telegram contacts are sending out one note after another - Tired of managing all these blinking chat windows? You want to combine all your messengers for private and business usage into one comfortable service? Do You want to use quick reply when Your chat is not in focus?
 
-Clatter offers the option to include all common messenger networks (Facebook Messenger, WhatsApp, Skype, ...) as well as business-oriented secure chats (Mattermost, Slack, Rocket.Chat, ...). This all-in-one messenger enables you to easily change between services, while having immediate focus on your selected chat. Desktop Notifications for all services can be individualized to your own needs. Needless to say Clatter features audio/video chat support and secure connections via HTTPS.   
+Clatter offers the option to include almost all common messenger networks (Facebook Messenger, Skype, Telegram, …) as well as business-oriented chats (Slack, Mattermost, Rocket.Chat, …) and even more as a custom service. This all-in-one messenger enables you to easily change between services via keyboard, while having immediate focus on your selected chat. Desktop notifications for all services can be individualized to your own needs and configurable taskbar badges inform you straight away. Needless to say, Clatter features audio/video chat support and secure connections via HTTPS.
 
 #### Your Benefits with the Pro Version:
-- No more Ads
-- Quick Reply Feature for WhatsApp and Telegram
-- More to come...
+- No more ads
+- Set custom icons for services
+- More to come…
 
 ## Features
 
 - Desktop Notifications 
 - Option to hide message details from Desktop Notifications
-- Quick Reply for WhatsApp and Telegram (more to come)
+- Quick Reply for Facebook Messenger and Telegram (more to come)
 - Auto focus on input box
 - Taskbar Badge Notifications
 - Supports Audio and Video Chats
@@ -24,18 +24,6 @@ Clatter offers the option to include all common messenger networks (Facebook Mes
 - Borderless Window Design
 - Add Custom Services
 
-## Supported Services
-
-- WhatsApp
-- Facebook Messenger
-- WeChat
-- Skype
-- Telegram
-- Google Hangouts
-- Discord
-- Slack
-- Mattermost
-- Rocket.Chat
 
 ## Privacy Policy 
 
