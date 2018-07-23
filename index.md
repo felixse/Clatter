@@ -1,5 +1,7 @@
 # Clatter
 
+[Download on Microsoft Store](https://www.microsoft.com/en-us/p/clatter/9nps35br12q8)
+
 Clatter unifies all Your precious social messengers into one environment that knows how to keep you focused.
 
 Your Facebook  and Telegram contacts are sending out one note after another - Tired of managing all these blinking chat windows? You want to combine all your messengers for private and business usage into one comfortable service? Do You want to use quick reply when Your chat is not in focus?
